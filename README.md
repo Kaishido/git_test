@@ -1,0 +1,1 @@
+This is Kaishido's first git project!
